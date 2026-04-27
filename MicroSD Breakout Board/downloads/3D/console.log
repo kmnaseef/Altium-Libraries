@@ -1,0 +1,30 @@
+Level: Info
+Message: Tracker.js - init - version 2.0.17
+Source: https://eu1.iam.3dexperience.3ds.com/3DPassport/resources-251209144013/js/libs/Usage/Usage.js
+Line: 1
+-----------------------
+Level: Error
+Message: Uncaught Error: NetworkError: url "https://eu1.iam.3dexperience.3ds.com/login?action=get_auth_params" return ResponseCode with value "0".
+Source: https://eu1.iam.3dexperience.3ds.com/3DPassport/resources-251209144013/js/DS/W3DPassport/dsp/DSP.js
+Line: 640
+-----------------------
+Level: Error
+Message: Uncaught Error: NetworkError: url "https://eu1.iam.3dexperience.3ds.com/login?action=get_auth_params" return ResponseCode with value "0".
+Source: https://eu1.iam.3dexperience.3ds.com/3DPassport/resources-251209144013/js/DS/W3DPassport/dsp/DSP.js
+Line: 640
+-----------------------
+Level: Error
+Message: Uncaught Error: NetworkError: url "https://eu1.iam.3dexperience.3ds.com/login?action=get_auth_params" return ResponseCode with value "0".
+Source: https://eu1.iam.3dexperience.3ds.com/3DPassport/resources-251209144013/js/DS/W3DPassport/dsp/DSP.js
+Line: 640
+-----------------------
+Level: Error
+Message: Uncaught Error: NetworkError: url "https://eu1.iam.3dexperience.3ds.com/login?action=get_auth_params" return ResponseCode with value "0".
+Source: https://eu1.iam.3dexperience.3ds.com/3DPassport/resources-251209144013/js/DS/W3DPassport/dsp/DSP.js
+Line: 640
+-----------------------
+Level: Error
+Message: Uncaught Error: NetworkError: url "https://eu1.iam.3dexperience.3ds.com/login?action=get_auth_params" return ResponseCode with value "0".
+Source: https://eu1.iam.3dexperience.3ds.com/3DPassport/resources-251209144013/js/DS/W3DPassport/dsp/DSP.js
+Line: 640
+-----------------------
